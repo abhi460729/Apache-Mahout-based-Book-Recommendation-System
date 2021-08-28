@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Upload Book to Book Mart</title>
+</head>
+<body>
+<div align="center">
+    <h1>Upload Book to Book Mart</h1>
+    <form action="#" th:action="@{/bookmart/book/upload}" th:object="${book}" method="POST">
+		<p>Name <input type="text" name="name" /></p>
+		
+		<p>Author <input type="text" name="author" /></p>
+		
+		<p>Price <input type="number" name="price"></p>
+		
+		
+		<p>Version <input type="text" name="version" /></p>
+		
+		<p>Category <input type="text" name="category" /></p>
+		
+		<p>Book Number <input type="number" name="book_number" /></p>
+		
+		<p><input type="submit" value="Submit" /></p>
+	</form>
+</div>
+</body>
+</html>

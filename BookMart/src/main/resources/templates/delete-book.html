@@ -1,0 +1,17 @@
+
+<!doctype html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org/">
+<head>
+	<meta charset="UTF-8" />
+	<title>Delete Book</title>
+</head>
+<body>
+	<h1>Delete Book</h1>
+	
+	  <form action="#" th:action="@{/bookmart/deleteBook}" th:object="${book}" method="POST">
+		<p>Book Id <input type="number" name="b_id" /></p>
+		<p><input type="submit" value="Submit" /></p>
+	  </form>
+	  
+</body>
+</html>

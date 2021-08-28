@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org/">
+<head>
+	<meta charset="UTF-8" />
+	<title>Search Result DashBoard</title>
+</head>
+<body>
+	<h1>Search Result DashBoard</h1>
+	
+	<table>
+	
+    <thead>
+        <tr>
+        	<th> Id </th>
+            <th> Name </th>
+            <th> Author </th>
+            <th> Category </th>
+        </tr>
+    </thead>
+    
+    <tbody>
+    
+	 	<tr th:if="${book.empty}">
+            <td colspan="2"> No Books Available </td>
+        </tr>
+        <tr th:each="books : ${book}">
+            <td><span th:text="${books.b_id}"> Id </span></td>
+            <td><span th:text="${books.name}"> Name </span></td>
+            <td><span th:text="${books.author}"> Author </span></td>
+            <td><span th:text="${books.category}"> Category </span></td>
+        </tr>
+    </tbody>
+    
+    
+    
+	</table>
+	
+	<a th:href="@{/bookmart/proceed}">Proceed To Place Order</a>
+</body>
+</html>

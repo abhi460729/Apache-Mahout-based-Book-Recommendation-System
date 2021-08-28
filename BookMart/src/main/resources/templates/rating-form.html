@@ -1,0 +1,23 @@
+
+<!doctype html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org/">
+<head>
+	<meta charset="UTF-8" />
+	<title>Rate Book</title>
+</head>
+<body>
+	<h1>Rate Book</h1>
+	
+	
+	  <form action="#" th:action="@{/bookmart/rating-submit}" th:object="${rating}" method="POST">
+		<p>Book Id <input type="number" name="book.b_id" /></p>
+		<p>Rating <input type="number" name="rating" /></p>
+		<p><input type="submit" value="Submit" /></p>
+	  </form>
+	
+	<a th:href="@{/bookmart/user/total}">Total</a>
+	<a th:href="@{/bookmart/user/delete}">Delete User</a>
+	<a th:href="@{/bookmart/logout}">Logout</a>
+	<a th:href="@{/bookmart/placeorder}">Place Order</a>
+</body>
+</html>

@@ -1,0 +1,22 @@
+
+<!doctype html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org/">
+<head>
+	<meta charset="UTF-8" />
+	<title>User Delete Cart DashBoard</title>
+</head>
+<body>
+	<h1>User Delete Cart DashBoard</h1>
+	
+	
+	  <form action="#" th:action="@{/bookmart/orderitem/delete}" th:object="${orderitem}" method="POST">
+		<p>Book Id <input type="number" name="book.b_id" /></p>
+		<p><input type="submit" value="Submit" /></p>
+	  </form>
+	
+	<a th:href="@{/bookmart/user/total}">Total</a>
+	<a th:href="@{/bookmart/user/delete}">Delete User</a>
+	<a th:href="@{/bookmart/logout}">Logout</a>
+	<a th:href="@{/bookmart/placeorder}">Place Order</a>
+</body>
+</html>
