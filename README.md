@@ -28,7 +28,21 @@ Login Page
 ![image](https://user-images.githubusercontent.com/22481474/131991709-79630fa2-0bff-45d6-a860-829ec11490c4.png)
 
 User Dashboard
+
 ![image](https://user-images.githubusercontent.com/22481474/131991828-c7d19ee5-c5e7-4cca-a455-6a5c0862168f.png)
 
-Search Action 
+Search Action
+
 ![image](https://user-images.githubusercontent.com/22481474/131992082-1690d972-8ee0-4835-a71f-358a142809ef.png)
+
+Add Items to Cart and Review Total
+
+![image](https://user-images.githubusercontent.com/22481474/131992942-abb283da-b5de-424e-a43b-f91f95b9cc9c.png)
+
+Get Book Recommendations
+
+![image](https://user-images.githubusercontent.com/22481474/131993970-913923c4-fcc4-46fb-95a2-934c381597ae.png)
+
+Rate Books
+
+![image](https://user-images.githubusercontent.com/22481474/131994059-d7de48cb-f73a-4b69-9728-832a25bd0bda.png)
