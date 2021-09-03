@@ -44,5 +44,5 @@ Get Book Recommendations
 ![image](https://user-images.githubusercontent.com/22481474/131993970-913923c4-fcc4-46fb-95a2-934c381597ae.png)
 
 Rate Books
+![image](https://user-images.githubusercontent.com/22481474/131994281-fd2d130d-6bb0-4e75-a777-3d0b806cd7c1.png)
 
-![image](https://user-images.githubusercontent.com/22481474/131994059-d7de48cb-f73a-4b69-9728-832a25bd0bda.png)
