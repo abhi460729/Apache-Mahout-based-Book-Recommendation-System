@@ -35,7 +35,7 @@ Search Action
 
 ![image](https://user-images.githubusercontent.com/22481474/131992082-1690d972-8ee0-4835-a71f-358a142809ef.png)
 
-Add Items to Cart and Review Total
+Add Items to Cart and Review Total (After Clicking on Create Cart) 
 
 ![image](https://user-images.githubusercontent.com/22481474/131992942-abb283da-b5de-424e-a43b-f91f95b9cc9c.png)
 
