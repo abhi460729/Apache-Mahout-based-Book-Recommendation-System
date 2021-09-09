@@ -41,7 +41,8 @@ Add Items to Cart and Review Total (After Clicking on Create Cart)
 
 Get Book Recommendations
 
-![image](https://user-images.githubusercontent.com/22481474/132725602-f3a16bf6-b7da-440a-b9fd-894fe41a8be3.png)
+![image](https://user-images.githubusercontent.com/22481474/132726760-958e0d26-e120-4104-a69d-d1827e59040e.png)
+![image](https://user-images.githubusercontent.com/22481474/132726861-917e20c7-a08f-4364-b3ff-88608c62bc3c.png)
 
 Rate Books
 
