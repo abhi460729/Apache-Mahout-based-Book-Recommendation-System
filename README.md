@@ -25,7 +25,7 @@ Home Page
 
 Login Page
 
-![image](https://user-images.githubusercontent.com/22481474/132723640-092d6c4f-e647-4258-bc23-f4c284df79a6.png)
+![image](https://user-images.githubusercontent.com/22481474/132725960-d4256751-2a48-4b4b-b153-63c049aa3d0c.png)
 
 User Dashboard
 
@@ -44,6 +44,7 @@ Get Book Recommendations
 ![image](https://user-images.githubusercontent.com/22481474/132725602-f3a16bf6-b7da-440a-b9fd-894fe41a8be3.png)
 
 Rate Books
+
 ![image](https://user-images.githubusercontent.com/22481474/132725689-2ec19ff5-c523-40a2-a600-bd27b70d4b10.png)
 
 
