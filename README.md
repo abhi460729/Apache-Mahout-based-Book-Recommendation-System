@@ -21,24 +21,23 @@ Implemented a User based Collaborative Filtering Algorithm for Recommending Book
 
 Home Page
 
-![image](https://user-images.githubusercontent.com/22481474/132723264-bbd55ea4-e9f6-4eb8-91c2-0e88d3ca4a28.png)
+![image](https://user-images.githubusercontent.com/22481474/132723547-b5d34eb6-1654-4cc4-903d-b6f6f405c400.png)
 
 Login Page
 
-![image](https://user-images.githubusercontent.com/22481474/132723355-56159ef0-24b9-4489-a548-c035b77899ff.png)
-
+![image](https://user-images.githubusercontent.com/22481474/132723640-092d6c4f-e647-4258-bc23-f4c284df79a6.png)
 
 User Dashboard
 
-![image](https://user-images.githubusercontent.com/22481474/131991828-c7d19ee5-c5e7-4cca-a455-6a5c0862168f.png)
+![image](https://user-images.githubusercontent.com/22481474/132723838-dce4aab1-7b04-4ee8-9d74-51f1829f1210.png)
 
 Search Action
 
-![image](https://user-images.githubusercontent.com/22481474/131992082-1690d972-8ee0-4835-a71f-358a142809ef.png)
+![image](https://user-images.githubusercontent.com/22481474/132724170-282f2779-1784-435e-a5d7-3832503e7508.png)
 
 Add Items to Cart and Review Total (After Clicking on Create Cart) 
 
-![image](https://user-images.githubusercontent.com/22481474/131992942-abb283da-b5de-424e-a43b-f91f95b9cc9c.png)
+![image](https://user-images.githubusercontent.com/22481474/132724381-ecbb9ed9-e9a0-4a13-be91-998bf43f9378.png)
 
 Get Book Recommendations
 
