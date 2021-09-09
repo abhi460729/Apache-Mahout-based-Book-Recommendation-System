@@ -21,11 +21,12 @@ Implemented a User based Collaborative Filtering Algorithm for Recommending Book
 
 Home Page
 
-![image](https://user-images.githubusercontent.com/22481474/131991300-31e2915c-63e1-42d2-9565-8f0b0b62ad52.png)
+![image](https://user-images.githubusercontent.com/22481474/132723264-bbd55ea4-e9f6-4eb8-91c2-0e88d3ca4a28.png)
 
 Login Page
 
-![image](https://user-images.githubusercontent.com/22481474/131991709-79630fa2-0bff-45d6-a860-829ec11490c4.png)
+![image](https://user-images.githubusercontent.com/22481474/132723355-56159ef0-24b9-4489-a548-c035b77899ff.png)
+
 
 User Dashboard
 
