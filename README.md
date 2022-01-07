@@ -1,5 +1,7 @@
 # Apache-Mahout-based-Book-Recommendation-System
 
+Application Link: http://3.135.166.51:8080/
+
 An Online Book Shopping Platform build using Spring Boot, Spring Data JPA, Spring MVC, Thymeleaf and MySQL Database (Business Layer and CRUD Layer APIs) with capabilities of Caching Data and Recommending Books to Users (using Apache Mahout).
 
 Features -
