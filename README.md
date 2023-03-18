@@ -1,6 +1,6 @@
 # Apache-Mahout-based-Book-Recommendation-System
 
-Application Link: http://3.135.166.51:8080/
+Previously hosted application link: http://3.135.166.51:8080/
 
 Link to the Published Paper: https://www.ijeat.org/portfolio-item/a31331011121/
 
